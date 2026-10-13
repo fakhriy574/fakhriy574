@@ -31,21 +31,11 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fakhriy574&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-  </a>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
 
 ## 👨‍💻 &nbsp;Tentang Saya
 
 Saya adalah seorang **Full-Stack Developer** dan Mahasiswa Sistem Informasi yang memadukan keahlian teknologi, desain UI/UX, dan manajerial operasional.
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
 
 ```js
 const fakhriy = {
@@ -61,19 +51,12 @@ const fakhriy = {
 };
 ```
 
-</td>
-<td width="50%" valign="top">
-
 - 🎓 Sedang menempuh S1 Sistem Informasi di **Universitas Indraprasta PGRI**.
 - 🌟 Terpilih sebagai **Google Student Ambassador 2026 (Batch 2)**.
 - 💼 Berpengalaman di industri F&B, **Sunzet Nusantara**, memegang peran ganda dalam bidang **Purchasing, Designer, dan Web Development**.
 - 💻 Saat ini sedang mengembangkan **Siscverse**, platform aplikasi web kelas digital modern dengan *stack* Next.js, Supabase, dan Prisma.
 - 👨‍🏫 Di luar dunia *engineering*, saya aktif mengabdi sebagai guru SD dan memiliki hobi membaca buku.
 - 🌐 Kunjungi portofolio interaktif saya: **[fakhriyvision.vercel.app](https://fakhriyvision.vercel.app)**
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
 
@@ -113,7 +96,10 @@ const fakhriy = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakhriy574&theme=tokyo-night&hide_border=true&area=true&bg_color=0F172A&color=00F0FF&line=3B82F6&point=FFFFFF" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhriy574&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fakhriy574&theme=tokyonight" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fakhriy574&theme=tokyonight" alt="Most Commit Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakhriy574&theme=tokyonight&utcOffset=7" alt="Productive Time" width="49%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">

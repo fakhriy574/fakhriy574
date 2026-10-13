@@ -1,24 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:1E3A8A,70:3B82F6,100:00F0FF&height=280&section=header&text=Muhammad%20Fakhriy%20Rahman&fontSize=48&fontColor=ffffff&fontAlignY=40&stroke=00F0FF&strokeWidth=1&desc=Full-Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descSize=20&descAlignY=62&animation=fadeIn" alt="Header" />
+  <img src="./assets/banner.svg" alt="Muhammad Fakhriy Rahman - Full-Stack Developer | Google Student Ambassador 2026" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://fakhriyvision.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Web+Developer;Google+Student+Ambassador+2026;Building+Siscverse;F%26B+Tech+%26+Design+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=700&height=55&lines=Full-Stack+Web+Developer;Google+Student+Ambassador+2026;Building+Siscverse;F%26B+Tech+%26+Design+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://fakhriyvision.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fakhriyvision.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0F172A" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Google_Student_Ambassador-2026_Batch_2-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0F172A" alt="GSA" />
+  <a href="https://fakhriyvision.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-fakhriyvision.vercel.app-00F0FF?style=for-the-badge&labelColor=0F172A" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/🌟_Google_Student_Ambassador-2026_Batch_2-4285F4?style=for-the-badge&labelColor=0F172A" alt="GSA" />
+  <img src="https://img.shields.io/badge/🚀_Building-Siscverse-8B5CF6?style=for-the-badge&labelColor=0F172A" alt="Siscverse" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Universitas_Indraprasta_PGRI-Sistem_Informasi-3B82F6?style=flat-square&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Sunzet_Nusantara-Purchasing_%7C_Designer_%7C_Web_Dev-F59E0B?style=flat-square&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/Currently_Building-Siscverse-8B5CF6?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/🎓_Universitas_Indraprasta_PGRI-Sistem_Informasi-3B82F6?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/💼_Sunzet_Nusantara-Purchasing_·_Designer_·_Web_Dev-F59E0B?style=flat-square&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/👨‍🏫_Guru_SD-📚_Hobi_Membaca-22C55E?style=flat-square&labelColor=0F172A" />
 </div>
 
 <br>
@@ -29,27 +30,17 @@
   <img src="https://img.shields.io/github/stars/fakhriy574?style=for-the-badge&color=F59E0B&logo=github&labelColor=0F172A" alt="Stars" />
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
+<img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
 ## 👨‍💻 &nbsp;Tentang Saya
 
 Saya adalah seorang **Full-Stack Developer** dan Mahasiswa Sistem Informasi yang memadukan keahlian teknologi, desain UI/UX, dan manajerial operasional.
 
-```js
-const fakhriy = {
-  nama: "Muhammad Fakhriy Rahman",
-  peran: "Full-Stack Developer",
-  kampus: "Universitas Indraprasta PGRI",
-  jurusan: "S1 Sistem Informasi",
-  penghargaan: "Google Student Ambassador 2026 (Batch 2)",
-  bekerjaDi: "Sunzet Nusantara (F&B)",
-  sedangDibangun: "Siscverse",
-  profesiLain: "Guru SD",
-  hobi: "Membaca buku",
-};
-```
+<div align="center">
+  <img src="./assets/terminal.svg" alt="Terminal profil Fakhriy" width="85%" />
+</div>
+
+<br>
 
 - 🎓 Sedang menempuh S1 Sistem Informasi di **Universitas Indraprasta PGRI**.
 - 🌟 Terpilih sebagai **Google Student Ambassador 2026 (Batch 2)**.
@@ -58,7 +49,7 @@ const fakhriy = {
 - 👨‍🏫 Di luar dunia *engineering*, saya aktif mengabdi sebagai guru SD dan memiliki hobi membaca buku.
 - 🌐 Kunjungi portofolio interaktif saya: **[fakhriyvision.vercel.app](https://fakhriyvision.vercel.app)**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
+<img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
 ## 🛠️ &nbsp;Tech Stack & Tools
 
@@ -72,7 +63,7 @@ const fakhriy = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
+<img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
 ## 📊 &nbsp;GitHub Dashboard
 
@@ -90,19 +81,25 @@ const fakhriy = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhriy574&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="80%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhriy574&theme=tokyonight" alt="Profile Details" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fakhriy574&theme=tokyonight" alt="Repos per Language" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fakhriy574&theme=tokyonight" alt="Most Commit Language" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fakhriy574&theme=tokyonight&utcOffset=7" alt="Productive Time" width="49%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
+<img src="./assets/divider.svg" width="100%" height="6" alt="" />
+
+## 🧊 &nbsp;Contribution 3D
+
+*(Catatan: grafik ini muncul setelah workflow `profile-assets.yml` dijalankan sekali di tab Actions)*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <img alt="Contribution 3D" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</div>
 
 ## 🐍 &nbsp;Contribution Activity
 
@@ -116,7 +113,7 @@ const fakhriy = {
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider">
+<img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
 ## 📫 &nbsp;Let's Connect!
 
@@ -135,5 +132,5 @@ const fakhriy = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:00F0FF&height=140&section=footer&animation=twinkling" alt="Footer" />
+  <img src="./assets/divider.svg" width="60%" height="6" alt="" />
 </div>

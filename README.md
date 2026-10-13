@@ -1,31 +1,29 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Fakhriy%20Rahman&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=55&descAlign=50" />
-</div>
+<h1 align="center">
+  Hi there, I'm Muhammad Fakhriy Rahman! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35">
+</h1>
 
 <div align="center">
-  <a href="https://fakhriyvision.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Google+Student+Ambassador+2026;Building+Siscverse;UI%2FUX+Enthusiast+%26+Educator" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Google+Student+Ambassador+2026;Purchasing,+Design+%26+Web+Dev+at+Sunzet+Nusantara;Teacher+%26+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GANTI_DENGAN_USERNAME_ANDA&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
----
+<br/>
 
-### 🚀 Tentang Saya
+### 💫 Tentang Saya
 
-Saya adalah seorang **Full-Stack Developer** dan Mahasiswa Sistem Informasi yang berfokus pada pengembangan aplikasi web modern dan arsitektur *backend* yang tangguh.
+Saya adalah seorang **Full-Stack Developer**, desainer, dan mahasiswa yang bersemangat mengombinasikan teknologi, data, dan kreativitas untuk menciptakan ekosistem digital yang fungsional.
 
-- 🎓 Mahasiswa S1 Sistem Informasi di **Universitas Indraprasta PGRI**.
+- 🎓 Menempuh pendidikan S1 Sistem Informasi di **Universitas Indraprasta PGRI**.
 - 🌟 Terpilih sebagai **Google Student Ambassador 2026 (Batch 2)**.
-- 💻 Saat ini sedang membangun **Siscverse**, platform aplikasi web kelas digital dengan teknologi Next.js, Supabase, dan Prisma.
-- 💼 Berpengalaman magang di **PT Telkom Indonesia** mengelola data Valins Service.
-- 👨‍🏫 Di luar layar monitor, saya adalah seorang guru SD dan gemar membaca buku.
-- 🌐 Kunjungi portofolio saya: **[fakhriyvision.vercel.app](https://fakhriyvision.vercel.app)**
+- 💼 Berpengalaman di **Sunzet Nusantara (F&B)**, mengelola operasional sebagai *Purchasing*, *Graphic Designer*, dan *Web Developer*.
+- 💻 Saat ini berfokus membangun **Siscverse**, sebuah platform web kelas digital masa depan menggunakan ekosistem Next.js, Supabase, dan Prisma.
+- 👨‍🏫 Di luar layar monitor, saya aktif mengabdi sebagai **Guru SD** (mengajar Bahasa Arab & PJOK) dan sangat hobi membaca buku.
+- 🌐 Jelajahi portofolio interaktif saya di **[fakhriyvision.vercel.app](https://fakhriyvision.vercel.app)**
 
 ---
 
@@ -33,7 +31,7 @@ Saya adalah seorang **Full-Stack Developer** dan Mahasiswa Sistem Informasi yang
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nuxt,nextjs,vue,react,tailwind,laravel,supabase,prisma,python,figma,vscode,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nuxt,nextjs,vue,react,tailwind,laravel,supabase,prisma,python,figma,canva,vscode,git&perline=7" />
   </a>
 </div>
 
@@ -42,29 +40,29 @@ Saya adalah seorang **Full-Stack Developer** dan Mahasiswa Sistem Informasi yang
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&bg_color=0d1117&icon_color=3B82F6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_DENGAN_USERNAME_ANDA&theme=tokyonight&hide_border=true&title_color=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&bg_color=0d1117" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_DENGAN_USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" width="80%" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity (Setup di Bawah)
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GANTI_DENGAN_USERNAME_ANDA/GANTI_DENGAN_USERNAME_ANDA/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GANTI_DENGAN_USERNAME_ANDA/GANTI_DENGAN_USERNAME_ANDA/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GANTI_DENGAN_USERNAME_ANDA/GANTI_DENGAN_USERNAME_ANDA/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Mari Terhubung!
 
 <div align="center">
   <a href="https://fakhriyvision.vercel.app" target="_blank">

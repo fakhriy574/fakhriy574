@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Muhammad Fakhriy Rahman - Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0B1B4D"/>
+      <stop offset="1" stop-color="#0E3A5F"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#9BE7FF"/>
+      <stop offset="1" stop-color="#00F0FF"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00F0FF" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00F0FF" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0.10"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00F0FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="38"/>
+    </filter>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <!-- glowing orbs -->
+    <circle cx="180" cy="90" r="90" fill="#3B82F6" opacity="0.55" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;140,40;0,0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="110" r="100" fill="#00F0FF" opacity="0.40" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-160,30;0,0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="320" r="80" fill="#8B5CF6" opacity="0.30" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;80,-30;0,0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating code symbols -->
+    <g font-family="'Fira Code','Consolas','Courier New',monospace" font-weight="700" fill="#00F0FF" opacity="0.35">
+      <text x="90" y="205" font-size="64">&lt;/&gt;
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="5s" repeatCount="indefinite"/>
+      </text>
+      <text x="1010" y="215" font-size="58">{ }
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-12;0,0" dur="6s" repeatCount="indefinite"/>
+      </text>
+      <text x="165" y="70" font-size="26" opacity="0.7">01
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,10;0,0" dur="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="1090" y="80" font-size="26" opacity="0.7">10
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,10;0,0" dur="4.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- name -->
+    <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="800" fill="url(#name)" filter="url(#glow)" opacity="0">
+      Muhammad Fakhriy Rahman
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0,18" to="0,0" dur="1.2s" begin="0.2s" fill="freeze"/>
+    </text>
+
+    <!-- role -->
+    <text x="600" y="190" text-anchor="middle" font-family="'Fira Code','Consolas','Courier New',monospace" font-size="19" font-weight="600" letter-spacing="3" fill="#00F0FF" opacity="0">
+      FULL-STACK DEVELOPER  •  GOOGLE STUDENT AMBASSADOR 2026
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.8s" fill="freeze"/>
+    </text>
+
+    <!-- tagline -->
+    <text x="600" y="228" text-anchor="middle" font-family="'Fira Code','Consolas','Courier New',monospace" font-size="15" fill="#94A3B8" opacity="0">
+      Building Siscverse  |  F&amp;B Tech &amp; Design Enthusiast
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1.4s" fill="freeze"/>
+    </text>
+
+    <!-- waves -->
+    <g>
+      <path d="M0 282 q150 -42 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V340 H0 Z" fill="url(#wave2)">
+        <animateTransform attributeName="transform" type="translate" from="-1200,0" to="0,0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 300 q150 -36 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V340 H0 Z" fill="url(#wave1)">
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="-1200,0" dur="10s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#00F0FF" stroke-opacity="0.35"/>
+</svg>
